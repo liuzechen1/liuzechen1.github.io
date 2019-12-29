@@ -1,0 +1,32 @@
+body {
+font-family: Georgia, "Times New Roman", Times, serif;
+color: #dd8630;
+background-color: #a4d8e8 }
+
+h1 {
+font-family: Impact, Charcoal, sans-serif;
+color: black}
+ul.navbar {
+list-style-type: none; 
+padding: 2;
+margin: 2;
+position: absolute; 
+top: 0.1em;
+left: 60em;
+width: 9em }
+h2{
+font-family: Georgia, "Times New Roman", Times, serif;
+color: crimson}
+
+
+ul.navbar li {
+background: #90f2c9;
+margin: 0.5em 0;
+padding: 0.3em;
+border-right: 1em solid black }
+ul.navbar a { 
+text-decoration: none }
+a:link {
+color: blue }
+a:visited { 
+color: purple }
